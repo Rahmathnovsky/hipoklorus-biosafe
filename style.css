@@ -4309,7 +4309,7 @@ table .cart-subtotal {
    background-image: linear-gradient(to bottom, transparent 1%, #009a44 99%);
   }
   div:last-child >.process:after {
-    background-image: linear-gradient(to bottom, #ffd100 , transparent);
+    background-image: linear-gradient(to bottom, #009a44 , transparent);
   }
   div:last-child >.process {
     padding-bottom: 0;
